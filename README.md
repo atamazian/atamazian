@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=your-github-username)
+  
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=atamazian&show_icons=true&hide_title=true&hide_border=true)
