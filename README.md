@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=atamazian&show_icons=true&hide_title=true&hide_border=true)
-  
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atamazian/competition/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atamazian/notebook/light)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/atamazian/discussion/light)
